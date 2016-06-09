@@ -2,7 +2,7 @@
 
 
 ## Special thanks
-This repository is based in https://github.com/antonybudianto/angular2-starter
+This repository is based on https://github.com/antonybudianto/angular2-starter
 
 ## License
 MIT
