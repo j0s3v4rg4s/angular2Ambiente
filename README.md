@@ -1,4 +1,4 @@
-# Angular 2 Starter
+# Angular 2 Template
 
 ## Caracteristics
 Template for Angular2 + typescript transpiler + SCSS transpiler + gulp browser Sync
@@ -10,7 +10,7 @@ Template for Angular2 + typescript transpiler + SCSS transpiler + gulp browser S
 3.  install dependences `npm install`
 4.  run the serve `gulp`
 
-## Special thanks
+## Thanks
 This repository is based on https://github.com/antonybudianto/angular2-starter
 
 ## License
